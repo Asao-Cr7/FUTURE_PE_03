@@ -1,0 +1,89 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/best-clothing-stores-bengaluru#blog",
+      "headline": "Best Clothing Stores in Bengaluru: The Ultimate 2026 Local Fashion Guide",
+      "description": "Discover the best clothing stores in Bengaluru including Commercial Street, Indiranagar and Jayanagar for boutique fashion and affordable clothing.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://example.com/images/bengaluru-fashion-shopping.jpg"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Your Name"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Bengaluru Fashion Guide",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/images/logo.png"
+        }
+      },
+      "datePublished": "2026-03-15",
+      "dateModified": "2026-03-15",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://example.com/best-clothing-stores-bengaluru"
+      },
+      "keywords": [
+        "clothing stores in Bengaluru",
+        "best boutiques in Bengaluru",
+        "Commercial Street shopping",
+        "Indiranagar clothing stores",
+        "Jayanagar fashion stores",
+        "affordable clothing stores in Bengaluru"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://example.com/#business",
+      "name": "Bengaluru Fashion Guide",
+      "image": "https://example.com/images/storefront.jpg",
+      "url": "https://example.com",
+      "telephone": "+91-0000000000",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MG Road",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560001",
+        "addressCountry": "IN"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Bengaluru"
+      },
+      "sameAs": [
+        "https://www.instagram.com/yourbrand",
+        "https://www.facebook.com/yourbrand"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/best-clothing-stores-bengaluru#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Fashion Blog",
+          "item": "https://example.com/fashion-blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Best Clothing Stores in Bengaluru",
+          "item": "https://example.com/best-clothing-stores-bengaluru"
+        }
+      ]
+    }
+  ]
+}
