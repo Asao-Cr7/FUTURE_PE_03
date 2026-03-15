@@ -1,6 +1,6 @@
+```
 Prompt 1: Act as a Senior SEO Specialist. Conduct keyword research for the 'Clothing Stores in Bengaluru' niche. Provide a list of 10 high-traffic keywords. Categorize them by Search Intent (Informational, Transactional, Navigational). Ensure the list includes specific local hubs like Commercial Street, Indiranagar, and Jayanagar. For each keyword, explain why it is vital for a local Bengaluru business to target. Provide me a better alternative prompt.
 Output: ## High-Traffic Keyword Research — *Clothing Stores in Bengaluru*
-
 | Keyword                                        | Search Intent | Why It Is Vital for a Local Business                                                                                                |
 | ---------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | clothing stores in Bengaluru                   | Transactional | Core high-volume keyword with strong purchase intent. Ranking here drives direct store visits and local discovery.                  |
@@ -24,6 +24,7 @@ Output: ## High-Traffic Keyword Research — *Clothing Stores in Bengaluru*
 | “Best” and comparison keywords   | Build **listicle content** and **shopping guides** to capture research traffic.   |
 | Category-based searches          | Create **separate landing pages** for men, women, budget, and designer clothing.  |
 | Shopping district intent         | Use **local schema + Google Business optimization** to capture map pack traffic.  |
+---
 
 ---
 
@@ -36,7 +37,7 @@ Clothing Stores in Commercial Street Bengaluru | Shopping Guide
 
 **Meta Description (<155 characters)**
 Discover the best clothing stores in Commercial Street Bengaluru. Find trendy boutiques, budget fashion, and designer wear in one guide.
-
+```
 # Improved Alternative Prompt
 
 Use this prompt for **better SEO outputs and deeper keyword insights**.
