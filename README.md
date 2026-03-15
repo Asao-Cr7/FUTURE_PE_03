@@ -40,9 +40,11 @@ This structure helps search engines understand the **topical authority of the we
 ---
 
 # Repository Structure
- bengaluru-clothing-seo
+bengaluru-clothing-seo
 │
-├── bengaluru-clothing-seo-blog.md
-├── local_business_schema.json
 ├── README.md
-└── workflow.md
+├── workflow.md
+├── keyword-research.md
+├── content-cluster-map.md
+├── bengaluru-clothing-seo-blog.md
+└── blogposting-schema.json
