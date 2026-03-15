@@ -38,10 +38,11 @@ Clothing Stores in Commercial Street Bengaluru | Shopping Guide
 **Meta Description (<155 characters)**
 Discover the best clothing stores in Commercial Street Bengaluru. Find trendy boutiques, budget fashion, and designer wear in one guide.
 ```
+```
 # Improved Alternative Prompt
 
 Use this prompt for **better SEO outputs and deeper keyword insights**.
-
+```
 ```
 Act as a Senior Local SEO Strategist specializing in retail and fashion markets in Bengaluru.
 
